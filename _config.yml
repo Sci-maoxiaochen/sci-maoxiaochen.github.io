@@ -1,0 +1,6 @@
+title: NDST博客
+description: 这是一个兼容 IE 的静态博客
+baseurl: ""
+url: ""
+markdown: kramdown
+theme: null
