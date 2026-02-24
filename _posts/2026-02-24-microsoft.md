@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 微软娱乐包第一弹---扫雷原先不是自带的？！
-date: 2026年2月24日
+date: 2026-2-24
 ---
 
 微软娱乐包（英语：Microsoft Entertainment Pack），或译为“微软娱乐套件”、“微软娱乐组合”，“微软娱乐合集”；又名“Windows娱乐包”或“Windows娱乐合集”（英语：Windows Entertainment Pack，简称WEP），是一套为Microsoft Windows设计的16位休闲电脑游戏组合。它在1990~1992年间共发行了四套。1995年，微软从这四套游戏组合挑选出部分游戏重新打包，发行了名为“微软最佳娱乐包”（The Best of Microsoft Entertainment Pack）的精选版本，又在2001年发行了后者的Game Boy Color版。
